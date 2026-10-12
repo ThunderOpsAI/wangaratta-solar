@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 160" width="100%" height="100%">
+  <defs>
+    <linearGradient id="sunGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+  </defs>
+  <!-- Sun Icon -->
+  <g transform="translate(50, 30)">
+    <circle cx="50" cy="50" r="28" fill="url(#sunGrad)" />
+    <path d="M50 8 L50 16 M50 84 L50 92 M8 50 L16 50 M84 50 L92 50 M20 20 L26 26 M74 74 L80 80 M20 80 L26 74 M74 26 L80 20" stroke="#f59e0b" stroke-width="6" stroke-linecap="round" />
+  </g>
+  <!-- Text Brand -->
+  <text x="180" y="72" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="900" fill="#ffffff" letter-spacing="-0.03em">WANGARATTA</text>
+  <text x="180" y="115" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="900" fill="#f59e0b" letter-spacing="-0.03em">SOLAR</text>
+  <text x="180" y="142" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#9ca3af" letter-spacing="0.2em">CLEAN ENERGY &bull; BATTERIES &bull; VIC REBATES</text>
+</svg>
